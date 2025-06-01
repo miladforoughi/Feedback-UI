@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "id": "1",
+      "rating": 10,
+      "text": "This is a new text 1"
+    },
+    {
+      "text": "This is a sefid mefid",
+      "rating": 7,
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "rating": 4,
+      "text": "This is a new text 3"
+    }
+  ]
+}
